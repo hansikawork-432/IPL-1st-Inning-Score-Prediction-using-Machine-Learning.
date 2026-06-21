@@ -36,4 +36,4 @@ pip install numpy pandas seaborn scikit-learn joblib
 
 ```
 
-## This project is only made for educational purpose. It is not intended for any commercial use.
+## This project is strictly made for educational purpose using public kaggle data. It is not intended for any commercial use.
