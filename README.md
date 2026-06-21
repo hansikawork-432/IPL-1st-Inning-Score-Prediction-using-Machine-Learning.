@@ -1,0 +1,2 @@
+# IPL-1st-Inning-Score-Prediction-using-Machine-Learning.
+I created an ML pipeline using Scikit-Learn to predict IPL 1st inning scores. I evaluated Decision Trees, Linear Regression, Random Forest, LinearSVR, and MLPRegressor. Random Forest performed best, achieving an R2 score of 93.25% and an RMSE of 7.77. The workflow covered data cleaning, ColumnTransformer layout fixes, and runtime optimization.
